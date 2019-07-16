@@ -331,7 +331,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #ee4c2f;
   text-decoration: none;
 }
 
@@ -2557,7 +2557,7 @@ fieldset[disabled] .btn-link {
 
 .btn-link:hover,
 .btn-link:focus {
-  color: #2a6496;
+  color: #ee4c2f;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -4105,8 +4105,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav .open > a .caret,
 .nav .open > a:hover .caret,
 .nav .open > a:focus .caret {
-  border-top-color: #2a6496;
-  border-bottom-color: #2a6496;
+  border-top-color: #ee4c2f;
+  border-bottom-color: #ee4c2f;
 }
 
 .nav .nav-divider {
@@ -4306,8 +4306,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .nav a:hover .caret {
-  border-top-color: #2a6496;
-  border-bottom-color: #2a6496;
+  border-top-color: #ee4c2f;
+  border-bottom-color: #ee4c2f;
 }
 
 .nav-tabs .dropdown-menu {
